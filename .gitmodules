@@ -1,0 +1,12 @@
+[submodule "SwiftyJSON"]
+	path = SwiftyJSON
+	url = https://github.com/SwiftyJSON/SwiftyJSON.git
+[submodule "RxSwift"]
+	path = RxSwift
+	url = https://github.com/ReactiveX/RxSwift.git
+[submodule "Alamofire"]
+	path = Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
+[submodule "RxAlamofire"]
+	path = RxAlamofire
+	url = https://github.com/RxSwiftCommunity/RxAlamofire.git
